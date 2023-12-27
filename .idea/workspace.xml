@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ce1c0c-fe77-4011-81f5-7202a9f57a90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenUneven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvenUneven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/EvenUneven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/Multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/Temperature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,45 +34,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.Sum">
-    <configuration name="EvenUneven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenUneven" />
+}]]></component>
+  <component name="RunManager" selected="Application.Homework2.Multiplication">
+    <configuration name="Homework2.EvenUneven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.EvenUneven" />
       <module name="Homework2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multiplication" />
+    <configuration name="Homework2.Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Multiplication" />
       <module name="Homework2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Square" />
+    <configuration name="Homework2.Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Square" />
       <module name="Homework2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum" />
+    <configuration name="Homework2.Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Sum" />
       <module name="Homework2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Temperature" />
+    <configuration name="Homework2.Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Temperature" />
       <module name="Homework2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.Multiplication" />
-        <item itemvalue="Application.Square" />
-        <item itemvalue="Application.Temperature" />
-        <item itemvalue="Application.EvenUneven" />
+        <item itemvalue="Application.Homework2.Multiplication" />
+        <item itemvalue="Application.Homework2.Sum" />
+        <item itemvalue="Application.Homework2.Square" />
+        <item itemvalue="Application.Homework2.Temperature" />
+        <item itemvalue="Application.Homework2.EvenUneven" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +100,7 @@
       <workItem from="1703605114818" duration="7735000" />
       <workItem from="1703628415228" duration="12355000" />
       <workItem from="1703681452529" duration="8256000" />
-      <workItem from="1703715916315" duration="1817000" />
+      <workItem from="1703715916315" duration="2552000" />
     </task>
     <servers />
   </component>
