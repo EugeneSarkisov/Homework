@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7ce1c0c-fe77-4011-81f5-7202a9f57a90" name="Changes" comment="HW3 complete">
-      <change afterPath="$PROJECT_DIR$/src/Homework2/ArrayRevers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/ArrayToNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/DirectReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/IncreasingSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/MinMaxIdx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework2/ZeroCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework2/ArraySumEl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework2/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework2/HW3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/EvenUneven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/Multiplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/Temperature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/ArrayRevers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/ArrayToNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/DirectReverseOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/IncreasingSeq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/MinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/MinMaxIdx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework2/ZeroCount.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +53,9 @@
       <recent name="C:\Users\Моргул\IdeaProjects\Homework2\src\Homework2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IncreasingSeq">
-    <configuration name="ArrayRevers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.ArrayRevers" />
+  <component name="RunManager" selected="Application.ChessBoard">
+    <configuration name="ArraySumEl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.ArraySumEl" />
       <module name="Homework2" />
       <extension name="coverage">
         <pattern>
@@ -83,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.ChessBoard" />
+      <module name="Homework2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IncreasingSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework2.IncreasingSeq" />
       <module name="Homework2" />
@@ -96,21 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.MinMax" />
-      <module name="Homework2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZeroCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework2.ZeroCount" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework2.Practice" />
       <module name="Homework2" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChessBoard" />
+        <item itemvalue="Application.ArraySumEl" />
+        <item itemvalue="Application.Practice" />
         <item itemvalue="Application.IncreasingSeq" />
         <item itemvalue="Application.ArrayToNumbers" />
-        <item itemvalue="Application.ArrayRevers" />
-        <item itemvalue="Application.ZeroCount" />
-        <item itemvalue="Application.MinMax" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +151,11 @@
       <workItem from="1704815078691" duration="8369000" />
       <workItem from="1704886472164" duration="10580000" />
       <workItem from="1704897537115" duration="2344000" />
-      <workItem from="1704914535685" duration="1514000" />
+      <workItem from="1704914535685" duration="1976000" />
+      <workItem from="1704988613781" duration="8580000" />
+      <workItem from="1705319495544" duration="5760000" />
+      <workItem from="1705358343337" duration="1181000" />
+      <workItem from="1705494199998" duration="439000" />
     </task>
     <task id="LOCAL-00001" summary="HW3 complete">
       <created>1704816264987</created>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704816264987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW3 complete">
+      <created>1704916228820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704916228820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
